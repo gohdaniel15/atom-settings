@@ -1,0 +1,55 @@
+"*":
+  "activate-power-mode":
+    autoToggle: false
+    comboMode:
+      enabled: false
+    screenShake:
+      enabled: false
+  "atom-pair":
+    slack_url: "https://hooks.slack.com/services/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"
+  core:
+    disabledPackages: [
+      "linter-rubocop"
+      "linter-flake8"
+      "vim-mode"
+      "vim-mode-plus"
+      "linter-jshint"
+    ]
+    packagesWithKeymapsDisabled: [
+      "dash"
+    ]
+    telemetryConsent: "limited"
+    themes: [
+      "atom-material-ui"
+      "gruvbox-plus-syntax"
+    ]
+  editor:
+    preferredLineLength: 120
+    showIndentGuide: true
+    showInvisibles: true
+    softWrapAtPreferredLineLength: true
+    tabType: "soft"
+  "exception-reporting":
+    userId: "d909e984-aa6d-4914-0d7b-80f56afbbd54"
+  "gruvbox-plus-syntax": {}
+  linter:
+    errorPanelHeight: 142
+  "linter-rubocop":
+    command: "which rubocop"
+  "linter-scss-lint":
+    executablePath: "/Users/danielgoh/.rvm/gems/ruby-2.3.1@launch-team/wrappers/scss-lint"
+  "tree-view": {}
+  welcome:
+    showOnStartup: false
+".coffee.jsx.source":
+  editor:
+    preferredLineLength: 120
+".js.jsx.source":
+  editor:
+    preferredLineLength: 120
+".scss.text":
+  whitespace:
+    removeTrailingWhitespace: true
+".slim.text":
+  whitespace:
+    removeTrailingWhitespace: true

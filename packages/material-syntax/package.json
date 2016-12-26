@@ -1,0 +1,68 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/16/7pz5lc9516x0dsd3ttt4cf4r0000gn/T/d-116111-462-15sz1ak/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/16/7pz5lc9516x0dsd3ttt4cf4r0000gn/T/d-116111-462-15sz1ak/package.tgz",
+        "spec": "/private/var/folders/16/7pz5lc9516x0dsd3ttt4cf4r0000gn/T/d-116111-462-15sz1ak/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/16/7pz5lc9516x0dsd3ttt4cf4r0000gn/T/apm-install-dir-116111-462-zc4vnn"
+    ]
+  ],
+  "_from": "../d-116111-462-15sz1ak/package.tgz",
+  "_id": "material-syntax@0.5.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/material-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/16/7pz5lc9516x0dsd3ttt4cf4r0000gn/T/d-116111-462-15sz1ak/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/16/7pz5lc9516x0dsd3ttt4cf4r0000gn/T/d-116111-462-15sz1ak/package.tgz",
+    "spec": "/private/var/folders/16/7pz5lc9516x0dsd3ttt4cf4r0000gn/T/d-116111-462-15sz1ak/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-116111-462-15sz1ak/package.tgz",
+  "_shasum": "2cd2215491e355d9ad9f918345bf6db746fe0b75",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/16/7pz5lc9516x0dsd3ttt4cf4r0000gn/T/d-116111-462-15sz1ak/package.tgz",
+  "_where": "/private/var/folders/16/7pz5lc9516x0dsd3ttt4cf4r0000gn/T/apm-install-dir-116111-462-zc4vnn",
+  "bugs": {
+    "url": "https://github.com/DaanDD/material-syntax/issues"
+  },
+  "dependencies": {},
+  "description": "Bringing Material Design to Atom",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "homepage": "https://github.com/DaanDD/material-syntax#readme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "material",
+    "google",
+    "candy",
+    "sublime"
+  ],
+  "license": "MIT",
+  "name": "material-syntax",
+  "optionalDependencies": {},
+  "readme": "# material-syntax theme\n\nThis theme brings the Google Material Design visual language to Atom.\nIt is based on this [Material Theme for Sublime Text](http://equinusocio.github.io/material-theme/).\nThe colors should match the original pretty well. If you find any problems, feel\nfree to create a [new issue](https://github.com/DaanDD/material-syntax/issues/new)\n\n![Screenshot](http://i.imgur.com/TDNX0Lm.png)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaanDD/material-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "0.5.0"
+}
